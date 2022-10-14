@@ -1,0 +1,9 @@
+p{
+    display: inline-block;
+}
+input{
+    width: 50px;
+}
+button{
+    display: block;
+}
