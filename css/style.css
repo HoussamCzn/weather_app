@@ -1,9 +1,32 @@
+.meteo {
+    border-style:solid;
+    width:400px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:400px;
+    padding-top:75px;
+    padding-bottom:75px;
+    text-align:center;
+    background-color:rgba(190, 228, 241, 0.635);
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font:Arial;
+}
+
 p{
     display: inline-block;
 }
 input{
     width: 50px;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font:Arial;
 }
 button{
     display: block;
+    margin-right:auto;
+    margin-left:auto;
+    font-size:18px;
+    font-family:Arial, Helvetica, sans-serif;
+    font:Arial;
 }
